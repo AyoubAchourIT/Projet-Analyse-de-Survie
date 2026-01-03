@@ -1,1 +1,1 @@
-What'u up
+What's up
