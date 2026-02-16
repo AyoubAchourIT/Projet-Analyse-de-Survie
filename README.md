@@ -28,13 +28,6 @@ The analysis includes:
 
 ---
 
-## Repository Structure
-
-- `analyse_de_survie.ipynb` — main notebook
-- Previous versions (`v1–v4`) document the iterative development process
-
----
-
 ## Purpose
 
 This project was developed to strengthen practical understanding of survival modeling techniques in applied statistics.
